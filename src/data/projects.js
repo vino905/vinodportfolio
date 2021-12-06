@@ -9,7 +9,7 @@ export const ProjectData = [
     tags: ["HTML", "CSS", "JavaScript", "BootStrap","Django"],
     demo: "www.example.com",
     github: "https://github.com/vino905/geekypy/tree/geekypy1/geekypy",
-    image:"../images/project1.png",
+    image:"../images/project1.PNG",
       
   },
 
@@ -26,6 +26,6 @@ export const ProjectData = [
     demo: "www.example.com",
     github: "https://github.com/vino905/WeatherForCast",
     image:
-      "/images/project2.jpg",
+      "/images/project2.JPG",
   },
 ];
