@@ -9,7 +9,7 @@ export const ProjectData = [
     tags: ["HTML", "CSS", "JavaScript", "BootStrap","Django"],
     demo: "www.example.com",
     github: "https://github.com/vino905/geekypy/tree/geekypy1/geekypy",
-    image:"../images/project1.PNG",
+    image:"https://vino905.github.io/vinodportfolio/blob/master/public/images/project1.PNG",
       
   },
 
