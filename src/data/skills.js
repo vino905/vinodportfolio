@@ -38,6 +38,10 @@ export const SkillsData = [
         name: "Django ",
         icon: <i class="devicon-django-line-wordmark"></i>,
       },
+      {
+        name: "SpringBoot ",
+        icon: <i class="devicon-django-line-wordmark"></i>,
+      },
      
     ],
   },
@@ -56,7 +60,10 @@ export const SkillsData = [
         name: "C",
         icon: <i class="devicon-c-plain colored"></i>,
       },
-
+{
+        name: "Java",
+        icon: <i class="devicon-c-plain colored"></i>,
+      },
      
     ],
   },
