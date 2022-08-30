@@ -1,12 +1,12 @@
 export const WorkData = [
   {
-    company: "The Spark Foundation",
-    designation: "Web Development Intern",
-    dateJoining: "01-06-2021",
-    dateEnd: "01-07-2021",
+    company: "ATCS a Nagarro Company",
+    designation: "Backend  Intern",
+    dateJoining: "11-04-2022",
+    dateEnd: "15-08-2022",
     companyLogo:
-      "https://internship.thesparksfoundation.info/assests/img/logo.png",
-    work: "Worked with senior developer's and learn how to develop complex projects.Developed a Ticket booking website where user can book tickets in a very easy manner.",
+      "https://www.nagarro.com/hubfs/MicrosoftTeams-image%20(40)-1.png",
+    work: "Worked with senior developer's and learn how to develop complex projects.Developed a Learning management backend application. Where user can check courses and purchase course and wishlisht the course",
   },
   
 ];
